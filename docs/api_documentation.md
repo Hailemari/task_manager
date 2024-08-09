@@ -1,4 +1,3 @@
-Here's a sample API documentation for your Task Management REST API. This can be included in the `docs/
 # Task Management API Documentation
 
 ## Overview
